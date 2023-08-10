@@ -37,7 +37,7 @@ I have hands-on experience with a wide range of technologies, including:
 
 ### 🏆 Awards and Achievements
 - 🏆 1st Winner of Web Development Competition BEM UPNVJ (2021).
-- 🏆 Best Team Final Project (2022).
+- 🏆 Best Team Final Project kumparan (2022).
 - 🏆 Top 20 Winner of Kalibrr Codefest (2022).
 
 ### 📫 Contact Me
