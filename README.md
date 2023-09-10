@@ -13,32 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### ✨ Overview
-Hello there! 👋 I'm Bagas, a passionate backend developer and recent graduate from UPN "Veteran" Jakarta. I have a keen interest in web and mobile development, and I love exploring various technologies to create robust and efficient solutions. This README will give you a glimpse of my journey, skills, and achievements in the world of software development.
-
-### 👨🏻‍💻 About Me
-- 🔭 Backend Developer with a focus on building scalable and performant applications.
-- 🎓 Fresh graduate from UPN "Veteran" Jakarta.
-- 🌱 Currently exploring new technologies to broaden my skill set.
-
-
-### 💼 Experience
-- 💼 Backend Developer Intern at Home Credit Indonesia (5 months).
-- 💼 Backend Developer Intern at Kumparan (6 months).
-
-### 💻 Tech Stack
-I have hands-on experience with a wide range of technologies, including:
-- Languages: Go, Node.js, Java, PHP, TypeScript, Python.
-- Frameworks: Echo, Express, Spring Boot, Laravel, React.js.
-- Databases: MySQL, PostgreSQL, MongoDB.
-- Frontend: HTML, CSS, JavaScript.
-- Version Control: Git, GitHub.
-- Project Management Tools: Jira, Confluence.
-- Other Tools: Docker.
-
-### 🏆 Awards and Achievements
-- 🏆 1st Winner of Web Development Competition BEM UPNVJ (2021).
-- 🏆 Best Team Final Project kumparan (2022).
-- 🏆 Top 20 Winner of Kalibrr Codefest (2022).
+Hehehe ha
 
 ### 📫 Contact Me
 - 📧 Email: bagasprabaswara77@gmail.com
